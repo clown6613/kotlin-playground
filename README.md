@@ -1,5 +1,5 @@
 # kotlin-playground
-## official style guide
+## Official style guide
 * Android Developer
   * https://developer.android.com/kotlin/style-guide?hl=ja
 * Kotlin Official
